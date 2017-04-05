@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TutoWebJEE:war exploded">
+    <output-path>$PROJECT_DIR$/TutoWebJEE/target/TutoWebJEE-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TutoWebJEE" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="TutoJPA-0.0.1-SNAPSHOT.jar">
+            <element id="module-output" name="TutoJPA" />
+          </element>
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.40" />
+          <element id="library" level="project" name="Maven: org.postgresql:postgresql:9.4.1212" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/TutoWebJEE/target/TutoWebJEE-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="TutoWebJEE/web/Web" />
+    </root>
+  </artifact>
+</component>

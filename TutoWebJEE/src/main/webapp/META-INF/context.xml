@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Context xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+	<Resource
+		name="jdbc/test"
+		type="javax.sql.DataSource"
+		JtaManaged="true"
+
+		driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql:///app"
+		username="root"
+		password=""
+
+		/>
+</Context>

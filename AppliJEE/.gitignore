@@ -1,0 +1,6 @@
+.settings
+bin
+build
+target
+META-INF
+WEB-INF/lib

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TutoJPA.iml" filepath="$PROJECT_DIR$/TutoJPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TutoWebJEE/TutoWebJEE.iml" filepath="$PROJECT_DIR$/../TutoWebJEE/TutoWebJEE.iml" />
+    </modules>
+  </component>
+</project>

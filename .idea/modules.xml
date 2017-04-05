@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppliSpring/AppliSpring.iml" filepath="$PROJECT_DIR$/AppliSpring/AppliSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRemoteClientEJB/TestRemoteClientEJB.iml" filepath="$PROJECT_DIR$/TestRemoteClientEJB/TestRemoteClientEJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRemoteServerEJB/TestRemoteServerEJB.iml" filepath="$PROJECT_DIR$/TestRemoteServerEJB/TestRemoteServerEJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TutoJPA/TutoJPA.iml" filepath="$PROJECT_DIR$/TutoJPA/TutoJPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TutoWebJEE/TutoWebJEE.iml" filepath="$PROJECT_DIR$/TutoWebJEE/TutoWebJEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TutoWebServiceRest/TutoWebServiceRest.iml" filepath="$PROJECT_DIR$/TutoWebServiceRest/TutoWebServiceRest.iml" />
+    </modules>
+  </component>
+</project>

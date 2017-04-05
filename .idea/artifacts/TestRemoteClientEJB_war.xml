@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TestRemoteClientEJB:war">
+    <output-path>$PROJECT_DIR$/TestRemoteClientEJB/target</output-path>
+    <root id="archive" name="TestRemoteClientEJB.war">
+      <element id="artifact" artifact-name="TestRemoteClientEJB:war exploded" />
+    </root>
+  </artifact>
+</component>
